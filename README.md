@@ -1,1 +1,1 @@
-# Univ
+# Sangmyung Univ Software
