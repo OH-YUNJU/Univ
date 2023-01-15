@@ -1,8 +1,10 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=YUNJU&fontSize=90" />	
 </div>
-<div align=centet>
+<div align=center>
 	<h3>🥨 introduce 🥨</h3>
+	sangmyung univ. software 20
+	OHYunJu
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
