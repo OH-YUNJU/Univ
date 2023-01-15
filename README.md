@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text= &fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=200&section=header&text=YUNJU&fontSize=90" />	
 </div>
 <div align=centet>
 	<h3>🥨 introduce 🥨</h3>
